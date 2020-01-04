@@ -1,0 +1,15 @@
+﻿Objektinio progr pagrindai; Juozaitis; Juozas; 9; Petraitis; Petras; A1;
+Objektinio progr pagrindai; Algimantas; Algis; 9; Antanaitis; Jonas; A1;
+Objektinio progr pagrindai; Algimantas; Algis; 9; Petraitis; Juozas; A1;
+Objektinio progr pagrindai; Algimantas; Algis; 9; Antanaitis; Tomas; A2;
+Objektinio progr pagrindai; Juozaitis; Juozas; 9; Petratis; Jonas; A2;
+Objektinio progr pagrindai; Juozaitis; Juozas; 9; Antanaitis; Juozas; A3;
+Kompiuterine grafika; Algimantas; Algis; 6; Lapinaitis; Valdas; A1;
+Kompiuterine grafika; Juozaitis; Juozas; 6; Antanaitis; Kristupas; A3;
+Kompiuterine grafika; Algimantas; Algis; 6; Vedraitis; Vytautas; A1;
+Kompiuterine grafika; Algimantas; Algis; 6; Aguraitis; Povilas; A1;
+Kompiuterine grafika; Algimantas; Algis; 6; Maraitis; Vytautas; A1;
+Kompiuterine grafika; Algimantas; Algis; 6; Povilaitis; Tadas; A1;
+Objektinio progr pagrindai; Algimantas; Algis; 9; Menulaitis; Marius; A2;
+Kompiuterine grafika; Juozaitis; Juozas; 6; Olandas; Paulius; A3;
+Objektinio progr pagrindai; Juozaitis; Juozas; 9; Albinaitis; Alvydas; A4;
