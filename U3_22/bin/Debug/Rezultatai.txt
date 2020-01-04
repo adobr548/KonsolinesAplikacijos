@@ -1,0 +1,50 @@
+Sunkiausia kaliause Medine2,ja turi ukininkas Petras Petraitis ,jos svoris 320 ,o apredai 4 
+ Sunkiausia kaliause Vatine jos svoris 320 
+ Sunkiausia kaliause Medine2 jos svoris 320 
+Ukininkas Jonas Jonaitis turi sunkiausia kaliause Vatine ir jos apredai 6 
+Ukininkas Petras Petraitis turi sunkiausia kaliause Medine2 ir jos apredai 4 
+Sunkiausia daugiausiai apredyta kaliause turi ukininkas Jonas Jonaitis
+Ukininkas Jonas Jonaitis ir jo vidutine kaliauses kaina 2320.00 
+Ukininkas Petras Petraitis ir jo vidutine kaliauses kaina 2790.00 
+Abieju ukininku Vidutine kaliauses kaina 2576.36 
+ Maziausia Vidutine kaliauses kaina yra pas ukininka,kurio vardas Jonas Jonaitis 
+ Abieju ukininku kaliauses 
+|-----------------|------------|---------------|---------|
+|   Tipas         |   Apredu   |  Svoris       |  Kaina  | 
+|                 |   skaicius |   (kg)        | (eur)   | 
+|-----------------|------------|---------------|---------|
+| Siaudine        |        2   |    135.00      | 3020.00 |
+| Skudurine       |        1   |    188.00      | 1020.00 |
+| Medine          |        1   |    310.00      | 1520.00 |
+| Skudurine1      |        5   |    208.00      | 2020.00 |
+| Vatine          |        6   |    320.00      | 4020.00 |
+| Siaudine1       |        1   |    155.00      | 5050.00 |
+| Siaudine2       |        2   |    190.00      | 1050.00 |
+| Medine1         |        3   |    195.00      | 1550.00 |
+| Medine2         |        4   |    320.00      | 2050.00 |
+| Vatine1         |        5   |    210.00      | 4020.00 |
+| Vatine2         |        2   |    112.00      | 3020.00 |
+----------------------------------------------------------
+Jonas Jonaitis
+|-----------------|------------|---------------|---------|
+|   Tipas         |   Apredu   |  Svoris       |  Kaina  | 
+|                 |   skaicius |   (kg)        | (eur)   | 
+|-----------------|------------|---------------|---------|
+| Siaudine        |        2   |    135.00      | 3020.00 |
+| Skudurine       |        1   |    188.00      | 1020.00 |
+| Medine          |        1   |    310.00      | 1520.00 |
+| Skudurine1      |        5   |    208.00      | 2020.00 |
+| Vatine          |        6   |    320.00      | 4020.00 |
+----------------------------------------------------------
+Petras Petraitis
+|-----------------|------------|---------------|---------|
+|   Tipas         |   Apredu   |  Svoris       |  Kaina  | 
+|                 |   skaicius |   (kg)        | (eur)   | 
+|-----------------|------------|---------------|---------|
+| Siaudine1       |        1   |    155.00      | 5050.00 |
+| Siaudine2       |        2   |    190.00      | 1050.00 |
+| Medine1         |        3   |    195.00      | 1550.00 |
+| Medine2         |        4   |    320.00      | 2050.00 |
+| Vatine1         |        5   |    210.00      | 4020.00 |
+| Vatine2         |        2   |    112.00      | 3020.00 |
+----------------------------------------------------------
